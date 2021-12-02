@@ -9,4 +9,7 @@ public class A {
 	public void test3(){
 		System.out.println("master添加一行");
 	}
+	public void test4(){
+		System.out.println("master添加二行");
+	}
 }
