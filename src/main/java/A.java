@@ -12,4 +12,7 @@ public class A {
 	public void test4(){
 		System.out.println("master添加二行");
 	}
+	public void test5(){
+		System.out.println("master添加三行");
+	}
 }
